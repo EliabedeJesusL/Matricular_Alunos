@@ -1,0 +1,5 @@
+10;Matemática;MT10;60
+13;Português;PT13;30
+69;Biologia;BG69;60
+11;Química;QM11;60
+20;Física;FS20;60
